@@ -1,0 +1,14 @@
+{
+  "iphone17": {
+    "x": 200,
+    "y": 600,
+    "interval": 1.0,
+    "bundle_id": "com.apple.Preferences"
+  },
+  "ipad10": {
+    "x": 300,
+    "y": 800,
+    "interval": 1.0,
+    "bundle_id": "com.apple.Preferences"
+  }
+}
